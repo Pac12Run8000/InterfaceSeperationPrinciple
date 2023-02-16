@@ -11,7 +11,7 @@ import SwiftUI
 struct InterfaceSeperationPrincipleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CarPriceView(carMake: "", carModel: "", carYear: nil, carCondition: nil)
         }
     }
 }
