@@ -12,6 +12,7 @@
 		09AEFF44299ECF8A00CFF4C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09AEFF43299ECF8A00CFF4C1 /* Assets.xcassets */; };
 		09AEFF47299ECF8A00CFF4C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09AEFF46299ECF8A00CFF4C1 /* Preview Assets.xcassets */; };
 		09AEFF50299EE6CE00CFF4C1 /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09AEFF4F299EE6CE00CFF4C1 /* Employee.swift */; };
+		09AEFF52299F001A00CFF4C1 /* Dog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09AEFF51299F001A00CFF4C1 /* Dog.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		09AEFF43299ECF8A00CFF4C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09AEFF46299ECF8A00CFF4C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		09AEFF4F299EE6CE00CFF4C1 /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
+		09AEFF51299F001A00CFF4C1 /* Dog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				09AEFF4F299EE6CE00CFF4C1 /* Employee.swift */,
+				09AEFF51299F001A00CFF4C1 /* Dog.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			files = (
 				09AEFF42299ECF8800CFF4C1 /* ContentView.swift in Sources */,
 				09AEFF50299EE6CE00CFF4C1 /* Employee.swift in Sources */,
+				09AEFF52299F001A00CFF4C1 /* Dog.swift in Sources */,
 				09AEFF40299ECF8800CFF4C1 /* InterfaceSeperationPrincipleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
